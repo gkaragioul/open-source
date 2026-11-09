@@ -25,7 +25,9 @@ Fixes and features I've contributed to other people's projects. The status badge
 
 - **[namco22-decompile](https://github.com/spacestate1/namco22-decompile):** the arcade code of Namco's System 22 and System 23 games, translated to C. My Mac versions are on [Mac Ports](https://github.com/gkaragioul/mac-ports).
 - **[Obelisk](https://github.com/Zagrios/Obelisk):** a Mac launcher that runs Windows games from Steam, Epic and GOG.
-- **[Voile](https://github.com/Zagrios/Voile):** Obelisk's Linux engine.
+- **[Voile](https://github.com/Zagrios/Voile):** the Windows runtime Obelisk installs to run Windows games.
+- **[voile-lkd](https://github.com/Zagrios/voile-lkd):** Voile's Linux engine, for games whose anti-cheat supports Linux.
+- **[voile-wine](https://github.com/Zagrios/voile-wine):** the version of Wine that Voile uses.
 - **[Homebrew](https://brew.sh):** the package manager for macOS.
 
 See also: [Bug reports](bug-reports.md)
