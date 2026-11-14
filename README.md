@@ -2,10 +2,18 @@
 
 # Open-source contributions
 
-Fixes and features I've contributed to other people's projects. The status badges update live from GitHub.
+Fixes and features I've contributed to other people's projects. The status badges update live from GitHub; openMERC's developer merges by hand, so its rows link to the merged commit.
 
 | Project | Contribution | Pull request | Status |
 |---|---|---|---|
+| [openMERC](https://github.com/sidreshot/openMERC) | A crouching enemy that never took a step now stands up to move | [#23](https://github.com/sidreshot/openMERC/pull/23) | [![status](https://img.shields.io/github/pulls/detail/state/sidreshot/openMERC/23?label=)](https://github.com/sidreshot/openMERC/pull/23) |
+| [openMERC](https://github.com/sidreshot/openMERC) | An enemy under a low ceiling now moves instead of standing still | [#22](https://github.com/sidreshot/openMERC/pull/22) | [![merged](https://img.shields.io/badge/merged-blueviolet)](https://github.com/sidreshot/openMERC/commit/72126bed47f8c586134a63037785cb6fa08e8b0f) |
+| [openMERC](https://github.com/sidreshot/openMERC) | The enemies riding the train now fight back | [#21](https://github.com/sidreshot/openMERC/pull/21) | [![merged](https://img.shields.io/badge/merged-blueviolet)](https://github.com/sidreshot/openMERC/commit/7a194b13125a4240608e7eceeed7997b4a2ed89a) |
+| [openMERC](https://github.com/sidreshot/openMERC) | Loading the next level no longer crashes the game | [#19](https://github.com/sidreshot/openMERC/pull/19) | [![merged](https://img.shields.io/badge/merged-blueviolet)](https://github.com/sidreshot/openMERC/commit/212d2a6245e8d78541e8ad1aab6e7c0a7ad2918e) |
+| [openMERC](https://github.com/sidreshot/openMERC) | The game finds its files when started with `-basedir` or `-cddir` | [#18](https://github.com/sidreshot/openMERC/pull/18) | [![merged](https://img.shields.io/badge/merged-blueviolet)](https://github.com/sidreshot/openMERC/commit/d874b49418d6ff1dbd71529c7be58f60236c35b3) |
+| [openMERC](https://github.com/sidreshot/openMERC) | The enemy check carries on when a level ends itself, hangs or crashes | [#17](https://github.com/sidreshot/openMERC/pull/17) | [![merged](https://img.shields.io/badge/merged-blueviolet)](https://github.com/sidreshot/openMERC/commit/1bd917380b145a1d47a8c04c30cfffaa7996241e) |
+| [openMERC](https://github.com/sidreshot/openMERC) | A check that every enemy in a level reacts to the player | [#16](https://github.com/sidreshot/openMERC/pull/16) | [![merged](https://img.shields.io/badge/merged-blueviolet)](https://github.com/sidreshot/openMERC/commit/3daac37201e374721eb84086e7d45d6b3c18a7d7) |
+| [openMERC](https://github.com/sidreshot/openMERC) | Soldier of Fortune's engine builds and runs natively on Apple silicon Macs | [#14](https://github.com/sidreshot/openMERC/pull/14) | [![merged](https://img.shields.io/badge/merged-blueviolet)](https://github.com/sidreshot/openMERC/commit/fd10caa5df69f4645806154f8b61858bd211583c) |
 | [Obelisk](https://github.com/Zagrios/Obelisk) | Killing Floor's frame lock turns on by itself (draft, it depends on the PRs below) | [#80](https://github.com/Zagrios/Obelisk/pull/80) | [![status](https://img.shields.io/github/pulls/detail/state/Zagrios/Obelisk/80?label=)](https://github.com/Zagrios/Obelisk/pull/80) |
 | [voile-lkd](https://github.com/Zagrios/voile-lkd) | A game can ask for a steady frame rate that suits the player's screen | [#23](https://github.com/Zagrios/voile-lkd/pull/23) | [![status](https://img.shields.io/github/pulls/detail/state/Zagrios/voile-lkd/23?label=)](https://github.com/Zagrios/voile-lkd/pull/23) |
 | [voile-wine](https://github.com/Zagrios/voile-wine) | OpenGL frames cost less to show, with an optional frame lock | [#15](https://github.com/Zagrios/voile-wine/pull/15) | [![status](https://img.shields.io/github/pulls/detail/state/Zagrios/voile-wine/15?label=)](https://github.com/Zagrios/voile-wine/pull/15) |
@@ -32,6 +40,7 @@ Fixes and features I've contributed to other people's projects. The status badge
 
 ## The projects
 
+- **[openMERC](https://github.com/sidreshot/openMERC):** an open-source engine for Soldier of Fortune. My Mac version is on [Mac Ports](https://github.com/gkaragioul/mac-ports/blob/main/games/soldier-of-fortune.md).
 - **[voile-lkd](https://github.com/Zagrios/voile-lkd):** Voile's Linux engine, for games whose anti-cheat supports Linux.
 - **[Voile](https://github.com/Zagrios/Voile):** the Windows runtime Obelisk installs to run Windows games.
 - **[voile-wine](https://github.com/Zagrios/voile-wine):** the version of Wine that Voile uses.
