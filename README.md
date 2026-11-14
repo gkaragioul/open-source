@@ -40,12 +40,12 @@ Fixes and features I've contributed to other people's projects. The status badge
 
 ## The projects
 
-- **[openMERC](https://github.com/sidreshot/openMERC):** an open-source engine for Soldier of Fortune. My Mac version is on [Mac Ports](https://github.com/gkaragioul/mac-ports/blob/main/games/soldier-of-fortune.md).
+- **[openMERC](https://github.com/sidreshot/openMERC):** an open-source engine for Soldier of Fortune. My Mac version is now part of it ([#14](https://github.com/sidreshot/openMERC/pull/14)).
 - **[voile-lkd](https://github.com/Zagrios/voile-lkd):** Voile's Linux engine, for games whose anti-cheat supports Linux.
 - **[Voile](https://github.com/Zagrios/Voile):** the Windows runtime Obelisk installs to run Windows games.
 - **[voile-wine](https://github.com/Zagrios/voile-wine):** the version of Wine that Voile uses.
 - **[neptune](https://github.com/Zagrios/neptune):** Direct3D for Voile's Linux engine, including the render server that runs on the Mac.
-- **[namco22-decompile](https://github.com/spacestate1/namco22-decompile):** the arcade code of Namco's System 22 and System 23 games, translated to C. My Mac versions are on [Mac Ports](https://github.com/gkaragioul/mac-ports).
+- **[namco22-decompile](https://github.com/spacestate1/namco22-decompile):** the arcade code of Namco's System 22 and System 23 games, translated to C. My Mac port of Time Crisis and Time Crisis II is [#99](https://github.com/spacestate1/namco22-decompile/pull/99).
 - **[Obelisk](https://github.com/Zagrios/Obelisk):** a Mac launcher that runs Windows games from Steam, Epic and GOG.
 - **[Homebrew](https://brew.sh):** the package manager for macOS.
 
